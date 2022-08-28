@@ -1,4 +1,4 @@
-from .schemas import Channel
+from .models import Channel
 from .session import BASE_URL, DEFAULT_PARAMS, session
 
 
